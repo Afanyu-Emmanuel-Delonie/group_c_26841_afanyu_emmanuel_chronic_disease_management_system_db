@@ -1,7 +1,7 @@
 # Chronic Disease Monitoring System (CDMS)
 
 [![Oracle](https://img.shields.io/badge/Oracle-21c%20XE-red?logo=oracle)](https://www.oracle.com/)
-[![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow?logo=powerbi)](https://powerbi.microsoft.com/)
+[![Power BI]([https://img.shields.io/badge/Power%20BI-Analytics-yellow?logo=powerbi](https://github.com/Afanyu-Emmanuel-Delonie/group_c_26841_afanyu_emmanuel_chronic_disease_management_system_db/blob/main/Chronic%20Disease%20Monitoring%20System%20-%20BPNM.drawio.png))](https://powerbi.microsoft.com/)
 [![PL/SQL](https://img.shields.io/badge/PL%2FSQL-Database-blue)](https://www.oracle.com/database/technologies/appdev/plsql.html)
 
 A comprehensive healthcare platform for monitoring chronic disease patients, generating real-time alerts, and supporting clinical decisions through advanced analytics and interactive dashboards.

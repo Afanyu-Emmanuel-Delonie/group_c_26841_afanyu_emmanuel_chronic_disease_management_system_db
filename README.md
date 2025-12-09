@@ -48,7 +48,6 @@ ALERT	Automatically triggered alerts
 ALERT_ACTIONS	Actions taken for alerts
 AUDIT_LOG	System activity logs
 ERD Diagram
-![ERD](./docs/erd.png)
 
 # Database Setup
 Connect to PDB
@@ -122,19 +121,6 @@ Support hospital planning and resource allocation
 
 Improve treatment decisions with real-time insights
 
-# Project Structure
-CDMS/
-│── database/
-│     ├── tables.sql
-│     ├── constraints.sql
-│     ├── triggers.sql
-│     ├── sample_data.sql
-│── docs/
-│     ├── erd.png
-│     ├── bpmn.png
-│── powerbi/
-│     ├── CDMS_Report.pbix
-│── README.md
 
 # Future Enhancements
 
